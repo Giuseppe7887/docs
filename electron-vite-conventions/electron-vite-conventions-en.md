@@ -4,7 +4,7 @@ An Electron project can become quite complex over time, especially when integrat
 
 Electron divides the project into three distinct sections but doesn’t provide detailed guidance on how to optimize them. These sections are:
 
-<img src="folder-tree.png"/>
+<img src="https://raw.githubusercontent.com/Giuseppe7887/docs/main/electron-vite-conventions/folder-tree.png"/>
 
 - **main**: the core of the application, where Node.js runs  
 - **preload**: the layer where Node.js functions are exposed to the front-end  
