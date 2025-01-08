@@ -10,7 +10,7 @@ dato lavorando nel corso degli anni su progetti electron che diventavano sempre 
 
 Electron divide il progetto in 3 parti distinte, ma non dice come ottimizzarle, queste parti sono:
 
-<img src="folder-tree.png"/>
+<img src="https://raw.githubusercontent.com/Giuseppe7887/docs/main/electron-vite-conventions/folder-tree.png"/>
 
 <br/>
 
